@@ -1,6 +1,6 @@
 # CodeAlpha - Machine Learning Internship Tasks
 
-Welcome to the repository for the machine learning internship tasks completed by [Your Name] as part of the Code Alpha internship program. This repository contains the code and documentation for three distinct tasks:
+Welcome to the repository for the machine learning internship tasks completed by Aimen Imran as part of the Code Alpha internship program. This repository contains the code and documentation for three distinct tasks:
 
 1. Autism Prediction:
    In this task, the goal was to develop a machine learning model for predicting autism based on certain features. The code for this task is organized in the autism_prediction directory. The main files include:
